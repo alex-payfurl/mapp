@@ -13,9 +13,6 @@
         "magento/framework": "*",
         "payfurl/phpsdk": "v1.6"
     },
-    "suggest": {
-        "php": "~7.4.0||~8.1.0"
-    },
     "autoload": {
         "files": [
             "registration.php"
