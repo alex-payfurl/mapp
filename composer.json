@@ -1,7 +1,7 @@
 {
     "name": "alex-payfurl/mapp",
     "type": "magento2-module",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "license": "proprietary",
     "authors": [
         {
