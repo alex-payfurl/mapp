@@ -1,7 +1,7 @@
 {
     "name": "alex-payfurl/mapp",
     "type": "magento2-module",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "license": "proprietary",
     "authors": [
         {
@@ -11,7 +11,7 @@
     ],
     "require": {
         "magento/framework": "*",
-        "payfurl/phpsdk": ">=1.9.1"
+        "payfurl/phpsdk": ">=1.9.2"
     },
     "autoload": {
         "files": [
